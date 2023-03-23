@@ -28,7 +28,7 @@ ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，�
 
 共约67万个问题，欢迎拿去炼丹。
 
-[讨论反馈](https://github.com/Guyungy/awesome-chatgpt-prompts-zh/issues/74)
+[讨论反馈](https://github.com/Guyungy/awesome-chatgpt-prompts-zh/discussions)
 
 
 
