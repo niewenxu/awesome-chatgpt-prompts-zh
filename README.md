@@ -2,12 +2,6 @@
 
 ![visitor badge](https://visitor-badge.vercel.app/p/Guyungy.awesome-chatgpt-prompts-zh)
 
-ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，能够和你进行任何领域的对话。
-
-官网是 https://ai.com/
-
-[国内中文版](https://chat.plexpt.com/login?inviter=1)
-
 它能够生成类似于人类写作的文本。您只需要给出提示或提出问题，它就可以生成你想要的东西。
 
 在此页面中，您将找到可与 ChatGPT 一起使用的各种提示。
