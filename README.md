@@ -1,6 +1,6 @@
 # 🧠ChatGPT 中文调教指南
 
-![visitor badge](https://visitor-badge.vercel.app/p/PlexPt.awesome-chatgpt-prompts-zh)
+![visitor badge](https://visitor-badge.vercel.app/p/Guyungy.awesome-chatgpt-prompts-zh)
 
 ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，能够和你进行任何领域的对话。
 
